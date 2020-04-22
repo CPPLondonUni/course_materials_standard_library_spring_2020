@@ -22,4 +22,6 @@ with any other programming language with interest in C++.
    ([PDF slides](/04%20-%20Getting%20to%20Know%20the%C2%A0Standard%C2%A0Library%20-%20C%2B%2B%20London%20Uni.pdf), [YouTube stream](https://youtu.be/0rFsxiwX9j8))
 5. Associative containers — sets and maps
    ([PDF slides](/05%20-%20Getting%20to%20Know%20the%C2%A0Standard%C2%A0Library%20-%20C%2B%2B%20London%20Uni.pdf), [YouTube stream](https://youtu.be/HFyxKTyVunU))
-6. *The next lesson comes 21st April 2020*
+6. Using custom types as associative container keys
+   ([PDF slides](/06%20-%20Getting%20to%20Know%20the%C2%A0Standard%C2%A0Library%20-%20C%2B%2B%20London%20Uni.pdf), [YouTube stream](https://youtu.be/Cc880rQYUzg))
+7. *The last lesson comes 5th May 2020*

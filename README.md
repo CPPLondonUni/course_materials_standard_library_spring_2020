@@ -1,4 +1,4 @@
-# C++ London Uni — Getting to Know the Standard Library
+# C++ London Uni — Getting to Know the C++ Standard Library
 
 This course is an introduction into C++ standard library containers and algorithms.
 We talk about the common principles and patterns for the standard library components and
@@ -24,4 +24,5 @@ with any other programming language with interest in C++.
    ([PDF slides](/05%20-%20Getting%20to%20Know%20the%C2%A0Standard%C2%A0Library%20-%20C%2B%2B%20London%20Uni.pdf), [YouTube stream](https://youtu.be/HFyxKTyVunU))
 6. Using custom types as associative container keys
    ([PDF slides](/06%20-%20Getting%20to%20Know%20the%C2%A0Standard%C2%A0Library%20-%20C%2B%2B%20London%20Uni.pdf), [YouTube stream](https://youtu.be/Cc880rQYUzg))
-7. *The last lesson comes 5th May 2020*
+7. std::function, structured bindings and more algorithms
+   ([PDF slides](/07%20-%20Getting%20to%20Know%20the%C2%A0Standard%C2%A0Library%20-%20C%2B%2B%20London%20Uni.pdf), [YouTube stream](https://youtu.be/duKZmFiTuvA))
